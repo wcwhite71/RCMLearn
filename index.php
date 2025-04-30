@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-color: #C0F9E1;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -41,14 +41,14 @@
         .form-group button {
             width: 100%;
             padding: 10px;
-            background-color: #007BFF;
+            background-color: #005654;
             color: #fff;
             border: none;
             border-radius: 4px;
             cursor: pointer;
         }
         .form-group button:hover {
-            background-color: #0056b3;
+            background-color: #005654;
         }
     </style>
 </head>
